@@ -1,5 +1,6 @@
 andrewrothstein.hadoop
 =========
+
 ![Build Status](https://github.com/andrewrothstein/ansible-hadoop/actions/workflows/build.yml/badge.svg)
 
 Installs [Apache Hadoop](https://hadoop.apache.org)
